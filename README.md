@@ -1,1 +1,3 @@
-# pytorch-forecast-demo
+# pytorch-forecast-dashboard
+
+![](screenshots/screenshot.png)
