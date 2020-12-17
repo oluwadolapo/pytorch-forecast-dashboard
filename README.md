@@ -3,7 +3,7 @@
 ![ddd](screenshots/screenshot.png)
 
 # Brief Intro
-This repo demonstrates how pytorch-forecasting (a python library that uses deep learning for time series forecasting) can be combined with Dash (a python library for creating reactive, web-based apps) to build a full-stack predictive application. The [stallion dataset](https://www.kaggle.com/utathya/future-volume-prediction) for SKU future volume analysis and prediction is used as a case study.
+This repo demonstrates how pytorch-forecasting (a python library that uses deep learning for time series forecasting) can be combined with Dash (a python library for creating reactive, web-based apps) to build a full-stack predictive analytics application. The [stallion dataset](https://www.kaggle.com/utathya/future-volume-prediction) for SKU future volume analysis and prediction is used as a case study.
 
 * [Official tutorial code](https://pytorch-forecasting.readthedocs.io/en/latest/tutorials/stallion.html) was adapted for forecasting.
 * [This dash template](https://github.com/STATWORX/blog/tree/master/DashApp) was adapted for the dashboard.
