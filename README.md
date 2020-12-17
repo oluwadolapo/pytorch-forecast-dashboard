@@ -14,5 +14,18 @@ dash==1.18.0
 pytorch-forecasting==0.7.1
 pyarrow==2.0.0
 ```
+# Training the forecasting model
+```
+python forecaster/train.py
+```
 
+# Model Evaluation
+```
+python forecaster/evaluate.py --best_model_path 'lightning_logs/default/version_0/checkpoints/epoch=20.ckpt'
+```
+
+# Running the dash app
+```
+python app.py
+```
 
